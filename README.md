@@ -8,6 +8,10 @@ The generated tokens can use to authenticate a user or a connected system and al
 
 Support this project!
 ---------------------  
-This is an open-source project. Currently i'm not using this project for any personal or professional and at this time it's not completed 
-i'm spending a time to develop this and also your reasonable pull requests can help me to develop this project faster and better.
+This is an open-source project. Currently i'm not using this project for any personal or professional.
+at this time it's not completed but i am spending a particular time to develop it and your reasonable pull requests can help us to develop this project faster and better. You can also can help us by finding and reporting bugs or make a some suggestions to improve it or say what you could need from this type of project
+
+
+Usage
+---------------------  
 
