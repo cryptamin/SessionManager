@@ -15,7 +15,7 @@ at this time it's not completed but i am spending a particular time to develop i
 Usage
 ---------------------  
 
-first initialize new object from the 'SessionManager' with your desired options.
+First initialize new object from the 'SessionManager' with your desired options.
 
 ```
 const options = {
@@ -25,3 +25,7 @@ const options = {
 const sessionManager = new SessionManager(options);
 
 ```
+
+After that you create the instance you can use presented method for creating, managing or validating created sessions.
+
+we will show this jobs step by step :
