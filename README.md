@@ -1,7 +1,8 @@
 SessionManager
 =============
 
-## Overview
+Overview
+---------
 
 An session manager implementation that help to developing token base systems. it can also generate refresh-token, access-token, and some security checks.
 
