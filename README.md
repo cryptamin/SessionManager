@@ -15,3 +15,13 @@ at this time it's not completed but i am spending a particular time to develop i
 Usage
 ---------------------  
 
+first initialize new object from the 'SessionManager' with your desired options.
+
+```
+const options = {
+  
+};
+
+const sessionManager = new SessionManager(options);
+
+```
