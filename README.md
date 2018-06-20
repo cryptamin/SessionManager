@@ -32,12 +32,25 @@ After that you create the instance, you can use the presented methods for creati
 
 ### Creating new session
 
-creating new session simply by calling the 'create_new_session' method, after calling this method the security tokens generating automatically.
+Creating new session simply by calling the 'create_new_session' method, after calling this method the security tokens generating automatically.
 
 ```
 const session = sessionManager.create_new_session();
 
 ```
+### The session structor
 
+
+Each created session always have some main parts that listed below :
+
+* `session_id` It's a unique identifier for each session, this parmeter will be use to identify the session for example in database.
+* `access_token` It have it's own properties.
+    + `token` An unperidictable base64 string that generated randomly that will use for authentication jobs.
+    + `expire_date` The expiration time that calculated by the 'access_token_ttl' in options
+* `refresh_token` 
+    + `token`
+    + `security_key`
+    + `expire_date`
+* `creator_info`
 
 
