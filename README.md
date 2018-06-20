@@ -12,7 +12,7 @@ This is an open-source project. Currently i'm not using this project for any per
 At this time it's not completed, but i'm spending a particular time to develop it as well your reasonable pull requests can help us to develop this project faster and better. You can also help us by finding and reporting bugs, make some suggestions to improve it or tell us what you could need from this type of project.
 
 
-Usage
+#Usage
 ---------------------  
 
 First initialize new object from the 'SessionManager' with your desired options.
