@@ -1,5 +1,5 @@
-# SessionManager
-****************
+SessionManager
+=============
 
 ## Overview
 
