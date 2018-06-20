@@ -28,4 +28,5 @@ const sessionManager = new SessionManager(options);
 
 After that you create the instance, you can use the presented methods for creating, managing or validating created sessions.
 
-we will show this jobs step by step :
+### Creating new session
+------------------------
