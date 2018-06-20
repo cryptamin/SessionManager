@@ -31,3 +31,13 @@ const sessionManager = new SessionManager(options);
 After that you create the instance, you can use the presented methods for creating, managing or validating created sessions.
 
 ### Creating new session
+
+creating new session simply by calling the 'create_new_session' method, after calling this method the security tokens generating automatically.
+
+```
+const session = sessionManager.create_new_session();
+
+```
+
+
+
